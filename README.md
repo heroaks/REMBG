@@ -1,6 +1,9 @@
 # REMBG - Background Remover
 
 [REMBG](https://hub.docker.com/r/ryuga64/bg-rem) is a background remover tool that uses the U2 Net model to remove backgrounds from PNG images using AI. This project provides a simple Flask application to interact with the background removal functionality and includes a Docker setup for containerization.
+## Preview 
+
+![image](https://github.com/heroaks/REMBG/assets/74710663/5d8d96a8-2016-4172-b399-2e7b3f6bba61)
 
 ## Table of Contents
 
